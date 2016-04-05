@@ -1,2 +1,3 @@
 # yweb-github
-Example repo for YWeb Git / GitHub training
+
+This is an example repo for [YWeb](http://ywebca.org/) Git / GitHub training.
